@@ -1,2 +1,2 @@
 # test-repo
-This repository contains e-commerse 
+This repository contains calculator
